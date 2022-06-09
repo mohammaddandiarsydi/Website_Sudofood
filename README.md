@@ -1,4 +1,4 @@
-# WarNasOL (Aplikasi Penjualan Makanan Online) Dengan PHP, MySQL dan Bootstrap 3
+# Sudofood (Aplikasi Penjualan Makanan dan Minuman Online Kekinian) Dengan PHP, MySQL dan Bootstrap 3
 
 Aplikasi ini merupakan pengembangan dari aplikasi sebelumnya yaitu Aplikasi Toko Online WarNasOL
 yang di bangun dengan menggunakan PHP native database MySQL dan Bootstrap 3.
