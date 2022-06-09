@@ -4,7 +4,7 @@ Aplikasi ini merupakan pengembangan dari aplikasi sebelumnya yaitu Aplikasi Toko
 yang di bangun dengan menggunakan PHP native database MySQL dan Bootstrap 3.
 
 Halaman Index
-![gambar-index](https://postimg.cc/delete/y2QVctXN/ddfaea86)
+![gambar-index](https://user-images.githubusercontent.com/5027795/53283086-a88b9f00-3773-11e9-833a-2fa684a6bec9.png)
 
 Halaman Customer
 ![gabar-cus](https://user-images.githubusercontent.com/5027795/53283125-146e0780-3774-11e9-9eec-7381388d600c.png)
